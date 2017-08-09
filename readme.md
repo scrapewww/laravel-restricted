@@ -1,4 +1,4 @@
-# Restricted
+# Restricted for Laravell 5.4
 
 Restricted allows you to restrict your users from signing up with reserved words.
 
